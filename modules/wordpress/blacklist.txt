@@ -1134,7 +1134,7 @@ seo-automated-link-building ;; resource intensive, bad practice
 seo-automatic-links ;; not maintained
 seo-alrp ;; blackhat seo, pointless, not maintained
 seo-booster ;; excessive logging, resource intensive
-seo-by-rank-math ;; poor coding, serious errors, no public docs
+;; seo-by-rank-math ;; poor coding, serious errors, no public docs
 seo-images-that-work ;; pointless, not maintained
 seo-monitor ;; excessive logging
 seo-optimized-images ;; pointless, too limited
@@ -1594,8 +1594,8 @@ wp-resources-url-optimization ;; not maintained
 wp-retina-2x ;; ss conflicts (CloudFlare), resource intensive, creates junk files, bad practice (should be done by CDN)
 wp-retina-2x-pro ;; ss conflicts (CloudFlare), resource intensive, creates junk files, bad practice (should be done by CDN)
 /wp-review/ ;; spyware company, poor coding, serious errors, better options exist (MyThemeShop)
-wp-rocket ;; bloated, ss conflicts
-wp-rocket-static-exclude-defer-js ;; ss conflicts
+;; wp-rocket ;; bloated, ss conflicts
+;; wp-rocket-static-exclude-defer-js ;; ss conflicts
 wp-roids ;; ss conflicts, creates instability
 wp-roilbacks ;; malware
 wp-rollback ;; bloated
