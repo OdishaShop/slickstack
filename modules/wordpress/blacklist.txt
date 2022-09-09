@@ -1717,7 +1717,7 @@ The following plugins will (likely) be disallowed before October 2022 due to aba
 ;; for exact directory matches use slashes e.g. /revslider/
 [path future]
 wordpress-seo ;; spyware, spammy, cronyism, hijacks WP Admin, history of poor coding, bloated, excessive logging, excessive API calls (aka Yoast SEO)
-product-catalog-feed-pro ;; no public changelog, potential database thrashing?
+;; product-catalog-feed-pro ;; no public changelog, potential database thrashing?
 sendgrid-email-delivery-simplified ;; does not work as of Jan 2021, serious errors, not maintained (By SendGrid)
 baw-login-logout-menu ;; not maintained (By Juliobox)
 dps-columns-extension ;; not maintained (By Bill Erickson on GitHub)
