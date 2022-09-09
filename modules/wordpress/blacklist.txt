@@ -1104,7 +1104,7 @@ ricg-responsive-images ;; not maintained
 rich-reviews ;; exploitable, deprecated
 rich-text-excerpts ;; not maintained, creates instability
 robin-image-optimizer ;; creates junk files, bad practice (small CDN team) By Webcraftic
-rocket-lazy-load ;; ss conflicts
+;; rocket-lazy-load ;; ss conflicts
 root-cookie ;; not maintained
 rs-head-cleaner-lite ;; deprecated
 rs-social-sidebar ;; not maintained
